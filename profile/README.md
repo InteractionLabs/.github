@@ -1,3 +1,5 @@
+![Traversal](https://github.com/InteractionLabs/.github/blob/main/images/banner.png)
+
 # Traversal
 
 [Traversal](https://www.traversal.com) is a research lab building AI
